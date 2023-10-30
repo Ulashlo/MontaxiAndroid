@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MontaxiAndroid"
+rootProject.name = "TaxiAndTransferNetworkAndroid"
 include(":app")

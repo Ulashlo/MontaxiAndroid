@@ -1,4 +1,4 @@
-package com.vanikoskii.montaxiandroid
+package com.vanikoskii.tatn
 
 import org.junit.Test
 

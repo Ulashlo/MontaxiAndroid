@@ -1,2 +1,2 @@
-# MontaxiAndroid
-Android client of MonTaxi application
+# TaxiAndTransferNetworkAndroid
+Android client of TaxiAndTransferNetwork application
